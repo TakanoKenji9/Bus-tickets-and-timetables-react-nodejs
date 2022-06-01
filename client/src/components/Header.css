@@ -1,0 +1,13 @@
+.navbar {
+    font-size: 16pt;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255);
+}
+
+.navbar-dark .navbar-brand {
+    font-size: 19pt;
+    font-style: italic;
+    margin-right: 100px;
+}
