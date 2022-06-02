@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Azbuki-Regular';
+    src: local('Azbuki-Regular'),
+         url('./fonts/Azbuki-Regular.woff') format('woff'),
+         url('./fonts/Azbuki-Regular.woff2') format('woff2');
+}
+
+.navbar-nav, .page-header, .navbar-brand {
+    font-family: Azbuki-Regular;
+}
+
+.page-header {
+    margin-top: 35px;
+}
+
+.tooltip-btn {
+    border: 0px solid white;
+    background: white;
+    margin-top: 5px;
+}

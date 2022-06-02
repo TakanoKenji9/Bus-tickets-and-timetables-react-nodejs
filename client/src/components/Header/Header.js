@@ -5,7 +5,7 @@ function Header() {
     return (
         <Navbar collapseOnSelect expand="lg" bg="primary" variant="dark">
             <Container>
-                <Navbar.Brand to="/">Даци-Р</Navbar.Brand>
+                <Navbar.Brand to="/">Демо-Д</Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">
                     <Nav className="me-auto">

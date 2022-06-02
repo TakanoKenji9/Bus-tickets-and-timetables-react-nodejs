@@ -1,0 +1,24 @@
+#timetable-img {
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+} 
+
+#destination-from, 
+#destination-to {
+    width: 90%;
+    padding-left: 15px;
+    border: 1px solid #0000007a;
+}
+
+#timetable-dropdowns {
+   margin-top:35px;
+}
+
+.dropdown-item {
+    width: 275px;
+}
+
+#timetable {
+    margin-top: 35px;
+} 
