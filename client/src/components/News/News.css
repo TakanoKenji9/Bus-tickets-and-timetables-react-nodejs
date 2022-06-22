@@ -17,3 +17,8 @@
 .card a {
     text-decoration: none;
 }
+
+#articleContent {
+    text-indent: 50px;
+    text-align: justify;
+}
